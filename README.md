@@ -9,9 +9,9 @@ Later, I moved to PowerBI to build visual reports.
 
 [Dashboard](#oasis1.pbix)
 
-[First report](./report_1.jpeg)
+[First report](/report_1.jpeg)
 
-[Second report](./report_2.jpeg)
+[Second report](/report_2.jpeg)
 
 Based on the Exploratory Data Analysis and the visual reports, I found out that:
 - The people who participated on this study, were all right handed.
